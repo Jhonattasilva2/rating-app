@@ -12,8 +12,17 @@ function Text() {
   );
 }
 
-const Title = styled.h2``;
+const Title = styled.h2`
+color: #FFF;
+margin: 30px 0 15px 0;
+font-size: 27px;
+`;
 
-const Paragraph = styled.p``;
+const Paragraph = styled.p`
+font-size: 15px;
+color: hsl(217, 12%, 63%);
+margin: 0 0 15px 0;
+
+`;
 
 export default Text;
