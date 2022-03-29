@@ -30,13 +30,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://rating-app-fawn.vercel.app/)
+- Solution URL: [https://rating-app-fawn.vercel.app/](https://rating-app-fawn.vercel.app/)
 
 
 
 ### Built with
 
-- Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
