@@ -1,9 +1,9 @@
 import styled from "styled-components"
 
-function Rate() {
+function Rate({rate}) {
   return (
     <>
-        <SpanRate>You selected 4 out of 5</SpanRate>
+        <SpanRate>You selected {rate} out of 5</SpanRate>
     </>
   )
 }
